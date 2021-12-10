@@ -43,12 +43,7 @@
 
 ---
 
-![image-20211204133835728](C:/Users/kazio/AppData/Roaming/Typora/typora-user-images/image-20211204133835728.png)
-
-**이런식으로 순서도를 만들어야할듯**
-
----
->>>>>>> 510ea8000cb8fe1bfa5452cc4386550463e322f3
+![fNl9EzAWJeN5j3AG6BcQA0Qw5Ug8kpPYl0tcddJgRdBa3E7d8py1DAvUXwQBVB-yFQ9_d7Q9_vLbmERZSkIdyhLMU1z_bnTImDgOYbSXfaE5v0p8BCFZI2Zrah-By3E0twlLDj86G2Q0](md=images/fNl9EzAWJeN5j3AG6BcQA0Qw5Ug8kpPYl0tcddJgRdBa3E7d8py1DAvUXwQBVB-yFQ9_d7Q9_vLbmERZSkIdyhLMU1z_bnTImDgOYbSXfaE5v0p8BCFZI2Zrah-By3E0twlLDj86G2Q0.png)
 
 ### 데이터 설명 및 전처리
 
@@ -56,41 +51,33 @@
 
 #### 데이터 셋 구축 과정
 
-<<<<<<< HEAD
 ![img](md=images/of5nziUeI_VKEsHnxhf97xTsKqiQ8IDS6qghrY44l2Z57CcxEFEhACqjJ3hiSYozouoHq9qRLra5ZZJuNHVPi9KKFurqtpAmwf03kS4rY8q2fajhA_EkZaynIQa3wLdFUdYw2UIUmrRg.png)
 =======
-![image-20211206172823194](md=images/image-20211206172823194.png)
->>>>>>> 510ea8000cb8fe1bfa5452cc4386550463e322f3
-
 (출처 - AI hub 데이터 셋)
 
 ---
 
 #### 데이터 전처리
 
-<<<<<<< HEAD
+![image-20211210173907217](md=images/image-20211210173907217.png)
 
-=======
-![image-20211206172840242](md=images/image-20211206172840242.png)
->>>>>>> 510ea8000cb8fe1bfa5452cc4386550463e322f3
+
 
 ---
 
 ### ETRI Api 의존 구문 분석
 
-<<<<<<< HEAD
+
 의존 구문분석 API는 자연어 문장의 구조를 분석하는 기술로, 문장 내 각 어절에 대해서 지배소 어절을 인식하고, 주격, 목적격과 같은 세부 의존관계 유형을 인식하는 기술입니다.  의존관계 설정 가이드라인은 세종 구문분석 가이드라인을 기반으로 한 [TTA 표준 의존 구문분석 가이드라인 (TTAK.KO-10.0853)](https://aiopen.etri.re.kr/data/003.의존구문분석_가이드라인.pdf)과 제27회 한글 및 한국어 정보처리 학술대회 논문집의 “의존 구문분석을 위한 한국어 의존관계 가이드라인 및 엑소브레인 언어분석 말뭉치”를 따르고 있습니다.
 
 ![img](md=images/rQMR07lq17G_zGPsrqZpKtVHD4bs8O6WycKfxPoRhC8fMIL0SGZ2-tZwyi-ZN5G-tOm-RqRr5Gg2ARpcR0v4bNB5_p9dqBvaSVNhbKEwf-Or-IeMu_DvloGQ3Qdn41ffx0e75tiF2T_0.png)
 =======
 
->>>>>>> 510ea8000cb8fe1bfa5452cc4386550463e322f3
-
 ---
 
 ### EDA
 
-<<<<<<< HEAD
+
 **총 데이터의 글자수 빈도수를 나타낸다.**
 
 ![img](md=images/UoXPf6Evzmjs8qw2QVbdGIYOmS34V5-qDJ2kX08tr_J5P86nLlTbeuyu5LiOGy4mQ_5euAAQN1JIPYU8BSdug0YeA6xxFwKfQO6WrXonZNPnY4Xv3xFc8MPqeRI-T8-aGRjzwm4DRfMT.png)
@@ -113,12 +100,12 @@
 
 ![img](md=images/fNl9EzAWJeN5j3AG6BcQA0Qw5Ug8kpPYl0tcddJgRdBa3E7d8py1DAvUXwQBVB-yFQ9_d7Q9_vLbmERZSkIdyhLMU1z_bnTImDgOYbSXfaE5v0p8BCFZI2Zrah-By3E0twlLDj86G2Q0.png)
 
-=======
-2~3개 정도만
+
 
 ---
 
->>>>>>> 510ea8000cb8fe1bfa5452cc4386550463e322f3
+
+
 ### 모델링 과정
 
 ---
@@ -250,29 +237,5 @@ synonym(동의어)처리 모델은 형태소 분석을 사용하여 어절과 �
 #### 참고 문헌
 
 임준호, 배용진, 김현기, 김윤정, 이규철, 의존 구문분석을 위한 한국어 의존관계 가이드라인 및 엑소브레인 언어분석 말뭉치, 제27회 한글 및 한국어 정보처리 학술대회 논문집, 2015.10.Martha Palmer, Dan Gildea, Paul Kingsbury, The Proposition Bank: A Corpus Annotated with Semantic Roles Computational Linguistics Journal, 31:1, 2005임수종, 권민정, 김준수, 김현기, ExoBrain을 위한 의미역 가이드라인 및 언어처리 학습데이터 구축, 제27회 한글 및 한국어 정보처리 학술대회 논문집, 2015.10.
-=======
-#### 모델 선택 기준
 
-#### model summary
 
-model summary()
-
-## 프로젝트 수행 결과
-
-### 예측 //결론 
-
-#### 되는거랑 안되는거
-
-#### 잘 안된 사유, 잘 안되는 부분 (동의어) 
-
-#### 기대효과
-
-##### 기성세대와 젊은세대와의 간격을 줄여줄 수 있다, 그리고 자료적으로 의미가 있다
-
-## 느낀점(''패치 예정''으로 바꿀예정)
-
-### 느낀점 및 앞으로의 방향
-
-#### 제한된 리소스, 리서치 부족, 이에대한 해결방안 아쉬웠다는 늬앙스
-
->>>>>>> 510ea8000cb8fe1bfa5452cc4386550463e322f3
